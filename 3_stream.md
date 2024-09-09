@@ -5,4 +5,4 @@
 
 | Дата | Номер | Тема | Презентация |
 | :---: | :---: | --- | --- |
-| 04.09.2024 | 1 | Введение в ML | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/edit/main/slides/3_stream/Ml1-intro-2024.pdf) | 
+| 04.09.2024 | 1 | Введение в ML | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/edit/main/slides/3_stream/Ml1-Intro-2024.pdf) | 
