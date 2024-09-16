@@ -4,7 +4,7 @@
 
 ### Правила оценивания
 
-todo
+* Презентация с правилами оценивания [описана тут](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/files/ML_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf)
 
 ### Материалы
  * [Первый поток (В.В. Китов)](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/1_stream.md)
