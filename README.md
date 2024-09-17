@@ -14,7 +14,8 @@
 Связаться с нами можно по почте ml.cmc@mail.ru
 
 ### Дополнительные материалы
-todo
+
+* [Туториал по Google Colab](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/tutorials/Google%20Colab%20(1).pdf)
 --------------------------------
 
  ### Материалы прошлых лет
