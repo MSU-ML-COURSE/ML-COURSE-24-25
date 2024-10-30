@@ -5,7 +5,7 @@
 
 | Дата | Номер | Тема | Презентация | Запись | 
 | :---: | :---: | --- | --- | --- |
-| 04.09.2024 | 1 | Введение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/edit/main/slides/3_stream/ML1-Intro-2024.pdf) | [Запись].https://rutube.ru/video/private/7924afbe3094ea8ea353c4a7a03bdf70/?p=finFQnHr5sPC20QFQVvudw 
+| 04.09.2024 | 1 | Введение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/edit/main/slides/3_stream/ML1-Intro-2024.pdf) |[Запись](https://rutube.ru/video/private/7924afbe3094ea8ea353c4a7a03bdf70/?p=finFQnHr5sPC20QFQVvudw) 
 | 04.09.2024 | 1 | Опциональные материалы по Питону | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/edit/main/slides/3_stream/ML2-Python.pdf) | 
 | 11.09.2024 | 2 | Задачи машинного обучения, признаковое пространство | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/edit/main/slides/3_stream/ML2-Tasks-2024.pdf) | 
 | 18.09.2024 | 3 | Метрический подход | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/edit/main/slides/3_stream/ML3-Metric-2024.pdf) | 
