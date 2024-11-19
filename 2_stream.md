@@ -14,6 +14,8 @@
 |  | 7 | Обзор оптимизационных задач |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-opt-survey.pdf) | 
 |  | 8 | SVM |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-svm.pdf) | 
 |  | 9 | Комбинаторная теория переобучения |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-overfitting.pdf) | 
+|  | 10 | Нелинейная регрессия |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-nonlin-regr.pdf) | 
+|  | 11 |  Логические методы классификации |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-logic.pdf) | 
 
 
 
