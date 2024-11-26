@@ -16,6 +16,9 @@
 |  | 9 | Комбинаторная теория переобучения |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-overfitting.pdf) | 
 |  | 10 | Нелинейная регрессия |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-nonlin-regr.pdf) | 
 |  | 11 |  Логические методы классификации |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-logic.pdf) | 
+|  | 12 |  Линейные ансамбли |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-compos1.pdf) | 
+
+
 
 
 
