@@ -17,6 +17,8 @@
 |  | 10 | Нелинейная регрессия |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-nonlin-regr.pdf) | 
 |  | 11 |  Логические методы классификации |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-logic.pdf) | 
 |  | 12 |  Линейные ансамбли |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-compos1.pdf) | 
+|  | 13 |  Градиентный бустинг |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-compos2.pdf) | 
+|  | 14 |  Продвинутые методы ансамблирования |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-compos3.pdf) | 
 
 
 
