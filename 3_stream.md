@@ -23,4 +23,6 @@
 
 | Дата | Номер | Тема | Презентация | Запись | 
 | :---: | :---: | --- | --- | --- |
-| 12.02.2025, 19.02.2025, 26.02.2025 | 1 | Бустинг | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/3_stream/ML13-Boosting-2025.pdf) |[Запись](https://rutube.ru/video/private/7924afbe3094ea8ea353c4a7a03bdf70/?p=finFQnHr5sPC20QFQVvudw) |
+| 12.02.2025, 
+19.02.2025, 
+26.02.2025 | 1,2,3 | Бустинг | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/3_stream/ML13-Boosting-2025.pdf) |[Запись](https://rutube.ru/video/private/7924afbe3094ea8ea353c4a7a03bdf70/?p=finFQnHr5sPC20QFQVvudw) |
