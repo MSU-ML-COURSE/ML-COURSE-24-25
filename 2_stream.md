@@ -24,6 +24,16 @@
 |  | 13 |  Градиентный бустинг |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-compos2.pdf) | 
 |  | 14 |  Продвинутые методы ансамблирования |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu24-compos3.pdf) | 
 
+### Весна
+
+| Дата | Номер | Тема | Презентация |
+| :---: | :---: | --- | --- |
+|  | 15 | Методы отбора признаков |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-featuresel.pdf) | 
+|  | 16 | Поиск ассоциативных правил |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-assoc.pdf) | 
+|  | 17 | Кластеризация и частичное обучение |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-cluster.pdf) | 
+|  | 18 | Оценивание плотностей распределения |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-density.pdf) | 
+|  | 19 | Байесовское обучение |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-bayes-latent.pdf) | 
+
 
 
 
