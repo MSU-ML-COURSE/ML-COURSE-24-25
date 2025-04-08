@@ -33,6 +33,10 @@
 |  | 17 | Кластеризация и частичное обучение |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-cluster.pdf) | 
 |  | 18 | Оценивание плотностей распределения |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-density.pdf) | 
 |  | 19 | Байесовское обучение |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-bayes-latent.pdf) | 
+|  | 20 | Тематическое моделирование |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-tm.pdf) |
+|  | 21 | Обучаемая векторизация данных |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-vectorize.pdf) |
+|  | 22 | Векторизация векторных и графовых данных |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-graph-text.pdf) |
+|  | 23 | Рекомендательные системы |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-rs-mf.pdf) |
 
 
 
