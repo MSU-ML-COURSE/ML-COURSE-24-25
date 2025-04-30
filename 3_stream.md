@@ -29,4 +29,4 @@
 | 26.03.2025, 02.04.2025 | 22, 23 | Кластеризация | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/3_stream/ML16-Clustering-2025.pdf) |[Запись](https://rutube.ru/video/private/5a23d2f1c1c6f376b4738642139ad011/?p=6oOHTcsqfq_EekIkP5wZMA) [Запись](https://rutube.ru/video/private/7cb86c9b8cb91def3cfbb4ade1d6ab4c/?p=sY7KOJSedalHk9ZR34rAwA)|
 | 9.04.2025 | 24 | Выявление скрытых структур в данных | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/3_stream/ML17-Structures-2025.pdf) |[Запись](https://rutube.ru/video/private/7754fabdda96744d02afe9961dca45af/?p=osInp5sUm2ZqfUVVSEvZVw) |
 | 23.04.2025 | 25 | Частичное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/3_stream/ML18-SemiSupervised-2025.pdf) |[Запись](https://rutube.ru/video/private/3559a4102d227a69cfcc5a9ea0bbda06/?p=SCggZ-EsMu3uGfE2B9Mr-Q) |
-
+| 30.04.2025 | 26 | Выявление аномалий без учителя | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/3_stream/ML19-Outliers-2025.pdf) |[Запись](https://rutube.ru/video/private/b1de43ef0e63762993c03b7bd85e26f4/?p=kPg0kWuV1D87i3RARLnqbA) |
