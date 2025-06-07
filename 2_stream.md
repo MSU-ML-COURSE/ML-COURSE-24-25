@@ -37,6 +37,11 @@
 |  | 21 | Обучаемая векторизация данных |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-vectorize.pdf) |
 |  | 22 | Векторизация векторных и графовых данных |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-graph-text.pdf) |
 |  | 23 | Рекомендательные системы |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-rs-mf.pdf) |
+|  | 24 | Выявление аномалий |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-outlier.pdf) |
+|  | 25 | Обучение ранжированию |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-ranking.pdf) |
+|  | 26 | Активное обучение |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-active.pdf) |
+|  | 27 | Обучение с подкреплением |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-reinforce.pdf) |
+|  | 28 | Интерпретируемость |  [Ссылка](https://github.com/MSU-ML-COURSE/ML-COURSE-24-25/blob/main/slides/2_stream/msu25-xai.pdf) |
 
 
 
